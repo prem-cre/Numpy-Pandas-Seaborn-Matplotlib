@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.12 (Numpy)" />
   </component>
   <component name="ProjectRootManager">
+=======
+    <option name="sdkName" value="Python 3.12 (venv)" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="Python 3.12" project-jdk-type="Python SDK">
+>>>>>>> 0648deb917cd7d4a88254a628ae8c3356ea39999
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

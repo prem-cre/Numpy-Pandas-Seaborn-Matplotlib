@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Numpy.iml" filepath="$PROJECT_DIR$/Numpy.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/pandas.iml" filepath="$PROJECT_DIR$/pandas.iml" />
+>>>>>>> 0648deb917cd7d4a88254a628ae8c3356ea39999
     </modules>
   </component>
 </project>
